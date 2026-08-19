@@ -1,0 +1,7 @@
+{
+  "name": "AI Campus Complaint",
+  "description": "Smart college complaint management platform with AI classification, priority detection, automated department routing, admin analytics, and status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
